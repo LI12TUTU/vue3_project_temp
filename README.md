@@ -1,24 +1,39 @@
-# vue3_project_temp
+# vue3-ts_project_temp
 
-## Project setup
+## 安装相关依赖
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包构建代码
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 代码格式检测
+
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 代码格式化
+
+```
+npm run prettier
+```
+
+### 提交代码
+
+```
+npm run commit
+```
+
+
